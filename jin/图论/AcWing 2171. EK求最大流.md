@@ -1,4 +1,4 @@
-```
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 const int N = 1010, M = 20010, INF = 1e8;
